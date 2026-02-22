@@ -33,7 +33,7 @@ recurring tasks, labels, dark mode, and per-project activity logs.
 
 ## Setup
 
-Must Rune each in order
+Must Run each command in order:
 
 ```bash
 git clone https://github.com/mohammed-salem-dev/todo-app
